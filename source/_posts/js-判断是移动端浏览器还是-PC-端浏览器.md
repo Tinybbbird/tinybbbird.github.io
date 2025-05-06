@@ -6,6 +6,7 @@ categories:
 tags:
 - 前端
 - js
+
 ---
 {% codeblock lang:js %}
 if( /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) {
